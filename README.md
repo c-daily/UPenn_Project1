@@ -9,7 +9,7 @@ Data Retrieval and Cleaning: The data retrieval process for quality-of-life meas
 
 After assessing all the data sets it was determined that we would have to find the data for years that appeared in all the data sets. While we initially tried to retrieve data for a ten-year span, we were limited by the extent to which data was kept over 10 years ago. We were able to find data across all data sets that matched the years of 2012 and 2019. Because of this, we then pivoted to assessing our data over a seven-year span.
 
-As you can imagine, the largest data set was for crime rates, with thousands of lines of data. To efficiently clean the data, the csv files were imported into Jupyter lab, and the data was “cleaned” by calling on the dates for the crimes reported.  Traffic Fatalities, Property Values, and Weather data sets were less cumbersome, thus allowing us to clean the csv files prior to import.
+As you can imagine, the largest data set was for crime rates, with more than 7 million lines of data. To efficiently clean the data, the csv files were imported into Jupyter lab, and the data was “cleaned” by calling on the dates for the crimes reported.  Traffic Fatalities, Property Values, and Weather data sets were less cumbersome, thus allowing us to clean the csv files prior to import.
 
 Questions for Hypothesis: 
 1. Is there a correlation between climate change and traffic fatalities? 
